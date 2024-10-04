@@ -93,7 +93,7 @@ module swap_three_numbers_tb;
     end
 endmodule
 output:
-[Screenshot 2024-10-04 183815](https://github.com/user-attachments/assets/3c703d26-0535-42c8-aefc-31999324f36f)
+![Screenshot 2024-10-04 183815](https://github.com/user-attachments/assets/3c703d26-0535-42c8-aefc-31999324f36f)
 
 
 
